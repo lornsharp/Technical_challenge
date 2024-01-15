@@ -5,10 +5,15 @@ This repository contains Terraform scripts to deploy the AWS infrastructure desc
 Usage:
 
 Clone the repository: git clone [repository-url]
+
 Navigate to the terraform directory: cd terraform
+
 Initialize Terraform: terraform init
+
 Review and customize terraform.tfvars with your AWS credentials and other variables.
+
 Apply the configuration: terraform apply
+
 Modules:
 
 VPC Module (modules/vpc):
