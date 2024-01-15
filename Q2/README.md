@@ -13,3 +13,6 @@ This script addresses Compliance Control ID 18.9.45.4.1.2 from the CIS Benchmark
 
 **Execution:**
 Run this script on the bastion1 host to configure ASR rule enforcement mode.
+
+**Note:**
+Ensure that the provided GUID is the correct one for the desired ASR rule state.
