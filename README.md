@@ -4,7 +4,7 @@ This repository contains Terraform scripts to deploy the AWS infrastructure desc
 
 Usage:
 
-Clone the repository: git clone [repository-url]
+Clone the repository: git clone [https://github.com/lornsharp/Technical_challenge.git]
 
 Navigate to the terraform directory: cd terraform
 
